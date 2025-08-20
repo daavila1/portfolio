@@ -17,21 +17,21 @@ You can find my cv [here](./cv.pdf)
 ### **1. Building and Calibration of Microscopic Simulation Models for the Assessment of Traffic Control Strategies**
 *[GitHub Repository](https://github.com/daavila1/sumo-traffic-signal-control-simulation)*
 
-Developed and calibrated a microscopic simulation using SUMO to evaluate different traffic signal control strategies. The project involved creating a high-fidelity corridor network from OSM data, generating traffic demand from field counts, and calibrating the model. Four control strategies were tested, including fixed-time and actuated plans, with optimization performed in PTV VISTRO. Simulations were executed with Python and TraCI for real-time data collection, analyzing key performance metrics such as delay, travel time, and number of stops. The study highlighted the trade-offs between different control approaches and demonstrated how microscopic simulation supports data-driven decision-making in traffic management.
+Developed and calibrated a microscopic simulation using **SUMO** to evaluate different traffic signal control strategies. The project involved creating a high-fidelity corridor network from OSM data, generating traffic demand from field counts, and calibrating the model. Four control strategies were tested, including fixed-time and actuated plans, with optimization performed in **PTV VISTRO**. Simulations were executed with **Python** and **TraCI** for real-time data collection, analyzing key performance metrics such as delay, travel time, and number of stops.
 
 ### **2. Resilience Assesment of Milan's Road Network Under Flooding Scenarios**
 *[GitHub Repository](https://github.com/daavila1/resilience-assessment-milano-road-network-under-flood-scenarios)*
 
-Evaluated the resilience of Milan’s road transport network to flooding of the Lambro River, with a focus on the Tangenziale Est corridor. The project combined Python for demand-side analysis and visualization, GIS for flood exposure mapping, and PTV Visum for scenario modeling. Baseline and disrupted scenarios were developed to capture both high- and moderate-disruption events, applying flood depth–speed relationships from literature to simulate network impacts.
+Evaluated the resilience of Milan's road transport network to flooding of the Lambro River, with a focus on the Tangenziale Est corridor. The project combined **Python** for demand-side analysis and visualization, **GIS** for flood exposure mapping, and **PTV Visum** for scenario modeling. Baseline and disrupted scenarios were developed to capture both high- and moderate-disruption events, applying flood depth-speed relationships from literature to simulate network impacts.
 
 Performance indicators such as travel times, vehicle speeds, and demand distribution were compared across scenarios to assess system vulnerability. Mitigation strategies were tested, ranging from short-term traffic management measures to long-term infrastructural solutions like water retention basins.
 
 ### **3. Fashion MNIST Classification - Closet Tune**
 *[GitHub Repository](https://github.com/daavila1/closet-tune-app)*
 
-Developed a machine learning pipeline for classifying images from the Fashion MNIST dataset using K-Nearest Neighbors, Neural Networks, Decision Trees, and Random Forests. The project covers the full workflow from data exploration and preprocessing to model training and evaluation, all documented in the Closet Tune Jupyter Notebook.
+Developed a **machine learning pipeline** for classifying images from the Fashion MNIST dataset using K-Nearest Neighbors, Neural Networks, Decision Trees, and Random Forests. The project covers the full workflow from data exploration and preprocessing to model training and evaluation, all documented in the Closet Tune Jupyter Notebook.
 
-Additionally, an interactive Flask web app was created to test the models in real time. Users can upload an image or draw directly on a canvas to receive predictions from all four machine learning models, providing a hands-on demonstration of model performance and interactivity.
+Additionally, an interactive **Flask** web app was created to test the models in real time. Users can upload an image or draw directly on a canvas to receive predictions from all four machine learning models, providing a hands-on demonstration of model performance and interactivity.
 
 ### **Explore more of my projects on my [GitHub Profile](https://github.com/daavila1)**
 

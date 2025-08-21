@@ -3,9 +3,11 @@
 MSc Student - Mobility Engineering - Politecnico di Milano
 
 ## About me
-Hi, I'm Daniel! I'm currently pursuing a Master's degree in Mobility Engineering at Politecnico di Milano, building on my background as a Civil Engineer. Throughout my academic journey I've had the opportunity to explore different areas of transportation, mobility, and data analysis, including statistics, simulation, and machine learning. I've applied these skills to better understand mobility systems and evaluate strategies for improving their performance and resilience.
+Hi, I'm Daniel! I'm currently pursuing a Master's degree in Mobility Engineering at Politecnico di Milano, building on my background as a Civil Engineer. Throughout my academic journey I've had the opportunity to explore different areas of transportation, mobility, and data analysis, including statistics, simulation, and machine learning. I've applied these skills to better understand mobility systems and evaluate strategies for improving their performance.
 
-During my studies I also had the privilege of conducting research at Purdue University, where I developed my undergraduate thesis. This experience gave me the chance to work in an academic research environment, applying simulation and modeling methods to real transportation challenges. It strengthened my ability to translate complex data into practical insights and deepened my understanding of transportation systems analysis.
+During my studies I also conducted research at Purdue University, where I developed my undergraduate thesis. This experience gave me the chance to work in an academic research environment, applying simulation and modeling methods to real transportation challenges. It strengthened my ability to translate complex data into practical insights and deepened my understanding of transportation systems analysis.
+
+What excites me most is working with models and simulations to make transportation problems tangible and solvable. I have hands-on experience with tools such as SUMO and PTV Visum, which I have used to build, calibrate, and analyze both corridor-level simulations and network-wide scenarios. These experiences taught me how to bridge data with real-world applications, and they are the foundation I want to keep building on in my professional career.
 
 Beyond my formal studies, I am very interested in data analysis and machine learning. I enjoy exploring these fields through side projects and hands-on experimentation, often using Python to test ideas, analyze data, and visualize results. I have also gained experience in web programming, which I use to develop small personal projects that combine technical skills with creative problem-solving.
 
